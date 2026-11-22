@@ -3,7 +3,7 @@
 
 ## Dasar Teori
 
-Queue atau antrean adalah struktur data linear yang menerapkan prinsip FIFO (First In First Out), yaitu elemen yang pertama dimasukkan akan menjadi elemen pertama yang dikeluarkan[1]. Penambahan elemen hanya dilakukan di satu ujung yang disebut `tail` (rear), sedangkan penghapusan elemen hanya dilakukan di ujung lainnya yang disebut `head` (front)[2]. Queue dapat diimplementasikan menggunakan array atau linked list. Pada array, kapasitas queue bersifat tetap sehingga queue bisa penuh, sedangkan pada linked list ukuran queue dinamis karena node dialokasikan saat dibutuhkan[1].
+Queue atau antrean adalah struktur data linear yang menerapkan prinsip FIFO (First In First Out), yaitu elemen yang pertama dimasukkan akan menjadi elemen pertama yang dikeluarkan[1][3]. Penambahan elemen hanya dilakukan di satu ujung yang disebut `tail` (rear), sedangkan penghapusan elemen hanya dilakukan di ujung lainnya yang disebut `head` (front)[2]. Queue dapat diimplementasikan menggunakan array atau linked list. Pada array, kapasitas queue bersifat tetap sehingga queue bisa penuh, sedangkan pada linked list ukuran queue dinamis karena node dialokasikan saat dibutuhkan[1].
 
 ### A. ADT Queue
 
